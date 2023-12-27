@@ -1,0 +1,6 @@
+[submodule "ut"]
+	path = ut
+	url = git@github.com:boost-ext/ut.git
+[submodule "backward-cpp"]
+	path = backward-cpp
+	url = git@github.com:bombela/backward-cpp.git
